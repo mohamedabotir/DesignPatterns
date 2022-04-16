@@ -1,0 +1,16 @@
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\prototype.exe
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\prototype.deps.json
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\prototype.runtimeconfig.json
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\prototype.dll
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\ref\prototype.dll
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\bin\Debug\net6.0\prototype.pdb
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.GlobalUsings.g.cs
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.csproj.AssemblyReference.cache
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.AssemblyInfoInputs.cache
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.AssemblyInfo.cs
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.dll
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\ref\prototype.dll
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.pdb
+C:\Users\moham\designpattern\DesignPatterns\DesignPatterns\CreationalPatterns\prototype\obj\Debug\net6.0\prototype.genruntimeconfig.cache
