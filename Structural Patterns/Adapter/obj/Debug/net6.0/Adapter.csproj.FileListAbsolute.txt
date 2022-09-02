@@ -1,0 +1,15 @@
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\IT\.NET\DesignPatterns\Structural Patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
