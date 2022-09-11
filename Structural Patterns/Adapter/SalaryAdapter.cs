@@ -10,7 +10,7 @@ namespace Adapter
     {
         public Employee Emp;
 
-        new public double CalcSalary(ExternalApi emp)
+        public double CalcSalary(ExternalApi emp)
         {
             Emp = new Employee();
             Emp.Salary = emp.Salary;

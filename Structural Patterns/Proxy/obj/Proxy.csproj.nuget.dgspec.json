@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\.NET\\DesignPatterns\\CreationalPatterns\\Builder\\Builder.csproj": {}
+    "D:\\IT\\.NET\\DesignPatterns\\Structural Patterns\\Proxy\\Proxy.csproj": {}
   },
   "projects": {
-    "D:\\IT\\.NET\\DesignPatterns\\CreationalPatterns\\Builder\\Builder.csproj": {
+    "D:\\IT\\.NET\\DesignPatterns\\Structural Patterns\\Proxy\\Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\.NET\\DesignPatterns\\CreationalPatterns\\Builder\\Builder.csproj",
-        "projectName": "Builder",
-        "projectPath": "D:\\IT\\.NET\\DesignPatterns\\CreationalPatterns\\Builder\\Builder.csproj",
+        "projectUniqueName": "D:\\IT\\.NET\\DesignPatterns\\Structural Patterns\\Proxy\\Proxy.csproj",
+        "projectName": "Proxy",
+        "projectPath": "D:\\IT\\.NET\\DesignPatterns\\Structural Patterns\\Proxy\\Proxy.csproj",
         "packagesPath": "C:\\Users\\H\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\.NET\\DesignPatterns\\CreationalPatterns\\Builder\\obj\\",
+        "outputPath": "D:\\IT\\.NET\\DesignPatterns\\Structural Patterns\\Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
