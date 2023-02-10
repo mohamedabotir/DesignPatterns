@@ -1,0 +1,15 @@
+D:\]\DesignPatterns\Structural Patterns\facade\bin\Debug\net7.0\facade.exe
+D:\]\DesignPatterns\Structural Patterns\facade\bin\Debug\net7.0\facade.deps.json
+D:\]\DesignPatterns\Structural Patterns\facade\bin\Debug\net7.0\facade.runtimeconfig.json
+D:\]\DesignPatterns\Structural Patterns\facade\bin\Debug\net7.0\facade.dll
+D:\]\DesignPatterns\Structural Patterns\facade\bin\Debug\net7.0\facade.pdb
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.csproj.AssemblyReference.cache
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.AssemblyInfoInputs.cache
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.AssemblyInfo.cs
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.csproj.CoreCompileInputs.cache
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.dll
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\refint\facade.dll
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.pdb
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\facade.genruntimeconfig.cache
+D:\]\DesignPatterns\Structural Patterns\facade\obj\Debug\net7.0\ref\facade.dll
