@@ -22,7 +22,7 @@ namespace facade
             builder.AppendLine($"TotalPrice:{totalPrice}$");
             Invoice = builder.ToString();
         }
-        public string getInvoice() => Invoice;
+         public string getInvoice() => Invoice;
 
     }
 }
