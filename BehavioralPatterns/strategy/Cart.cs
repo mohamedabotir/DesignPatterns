@@ -8,11 +8,12 @@ namespace strategy
     public class Cart
     {
         private List<Order> _orders = new();
-        private decimal _total;
-        public decimal TotalPrice
+        private double _total;
+        public double TotalPrice
         {
             get
             {
+                _total = 0;
                 foreach (var item in _orders)
                 {
                     _total += item.Price;

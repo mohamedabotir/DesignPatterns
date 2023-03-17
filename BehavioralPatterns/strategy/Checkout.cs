@@ -11,6 +11,7 @@ namespace strategy
         public string ProcessCheckout(Cart cart)
         {
 
+              
             return new Invoice().GenerateInvoice(cart);
         }
     }

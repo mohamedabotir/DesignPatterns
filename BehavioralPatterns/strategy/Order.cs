@@ -9,7 +9,7 @@ namespace strategy
     {
         public Product Product { get; set; }
         public int qty { get; set; }
-        public decimal Price
+        public double Price
         {
             get
             {
