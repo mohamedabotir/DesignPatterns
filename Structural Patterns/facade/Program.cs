@@ -19,3 +19,4 @@ basket.addToBasket(item1);
 
 purchaseFacade process = new();
 process.PurchaseOrder(basket);
+var str = new str(1);
