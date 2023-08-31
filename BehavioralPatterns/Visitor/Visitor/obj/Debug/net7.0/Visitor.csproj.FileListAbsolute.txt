@@ -1,0 +1,14 @@
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\bin\Debug\net7.0\Visitor.exe
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\bin\Debug\net7.0\Visitor.deps.json
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\bin\Debug\net7.0\Visitor.runtimeconfig.json
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\bin\Debug\net7.0\Visitor.dll
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\bin\Debug\net7.0\Visitor.pdb
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.dll
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.pdb
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\Visitor.genruntimeconfig.cache
+E:\Projects\opensource\DesignPatterns\BehavioralPatterns\Visitor\Visitor\obj\Debug\net7.0\ref\Visitor.dll
