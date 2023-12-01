@@ -1,0 +1,15 @@
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\factory.exe
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\factory.deps.json
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\factory.runtimeconfig.json
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\factory.dll
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\factory.pdb
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.AssemblyInfoInputs.cache
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.AssemblyInfo.cs
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.csproj.CoreCompileInputs.cache
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.sourcelink.json
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.dll
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\refint\factory.dll
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.pdb
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.genruntimeconfig.cache
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\ref\factory.dll
