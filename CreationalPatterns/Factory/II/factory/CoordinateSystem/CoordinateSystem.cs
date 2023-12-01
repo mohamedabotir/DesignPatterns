@@ -15,6 +15,7 @@ namespace factory.CoordinateSystem
             x = r * Math.Cos(theta);
             y = r * Math.Sin(theta);
         }
+        #region   another method to support both system using enum mode
         public CoordinateSystem(double xValue, double yValue, Coordinate coordinate = Coordinate.Cartesian)
         {
             switch (coordinate)
@@ -32,7 +33,15 @@ namespace factory.CoordinateSystem
             }
 
 
+
         }
+        #endregion
+
+        #region  add both system but using factory Method
+        public CoordinateSystem CreateCartesian(double xValue, double yValue) => new CoordinateSystem(xValue, yValue);
+        public CoordinateSystem CreatePolar(double xValue, double yValue) => new CoordinateSystem(xValue * Math.Cos(yValue), xValue * Math.Sin(yValue));
+
+        #endregion
         public override string ToString() => $"X:{x},Y:{y}";
     }
     public enum Coordinate
