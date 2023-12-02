@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEZNhtDI/x/kBuAfqN1wSZXwa/gNDvBQUlUTjvUb90YZnSg7V7NzyOL/qpGE5OpVHKI1yr2m+xdnzomcCBlW5Q==",
+  "dgSpecHash": "VFJ5hHD3os8lIDrf9r3GlpGcGHojTi7E/ffgQXRLiG7+UyaWukDxGK4tDVHXqHhBb/41iZSLu5ZrgeNqzOJfXw==",
   "success": true,
   "projectFilePath": "D:\\my contribution\\DesignPatterns\\CreationalPatterns\\Factory\\II\\factory\\factory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mabotir\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\mabotir\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

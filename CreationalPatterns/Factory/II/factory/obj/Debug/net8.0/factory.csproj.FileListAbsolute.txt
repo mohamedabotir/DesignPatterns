@@ -13,3 +13,6 @@ D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debu
 D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.pdb
 D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.genruntimeconfig.cache
 D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\ref\factory.dll
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\bin\Debug\net8.0\Autofac.dll
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.csproj.AssemblyReference.cache
+D:\my contribution\DesignPatterns\CreationalPatterns\Factory\II\factory\obj\Debug\net8.0\factory.csproj.CopyComplete
