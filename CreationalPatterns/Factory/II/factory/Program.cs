@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using factory.abstractFactory;
 using factory.deligationFactoryToSolveInput;
+using factory.objectTracking;
 using static factory.deligationFactoryToSolveInput.Invoice;
 using static factory.Point.Point;
 var cartesian = CoordinateFactory.CreateCartesianSystem(5, 2);
@@ -24,4 +25,11 @@ var invoiceFactoryResolver = containerBuilder.Resolve<InvoiceFactory.InvokeInvoi
 var factory = invoiceFactoryResolver(20);
 factory.calculateTotal();
 
+#endregion
+
+#region object tracking 
+var factoryTheme = new TrackingThemeFactory();
+var theme = factoryTheme.CreateTheme(true);
+var theme2 = factoryTheme.CreateTheme(false);
+Console.WriteLine(factoryTheme.Info);
 #endregion
